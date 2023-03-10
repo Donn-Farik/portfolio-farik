@@ -1,6 +1,6 @@
 import React from "react";
 import landingpage from "../pictures/landingpage.png";
-import circleclone from "../pictures/circleclone.png";
+import shoppingcart from "../pictures/shoppingcart.png";
 import Todoapp from "../pictures/todoapp.png";
 
 function Work() {
@@ -29,7 +29,11 @@ function Work() {
                 TODOAPP
               </span>
               <div>
-                <a href="https://react-todoapp-kappa.vercel.app/">
+                <a
+                  href="https://react-todoapp-kappa.vercel.app/"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg ">
                     VIEW PROJECT
                   </button>
@@ -38,16 +42,20 @@ function Work() {
             </div>
           </div>
           <div
-            style={{ backgroundImage: `url(${circleclone})` }}
+            style={{ backgroundImage: `url(${shoppingcart})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* hover Effect */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                CIRCLE CLONE
+                SHOPPING CART
               </span>
               <div>
-                <a href="/">
+                <a
+                  href="https://cart-react-inky.vercel.app/"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     VIEW PROJECT
                   </button>
@@ -65,7 +73,11 @@ function Work() {
                 RECEIPE WEBSITE
               </span>
               <div>
-                <a href="/">
+                <a
+                  href="https://frensh-soup.vercel.app/ "
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     VIEW PROJECT
                   </button>
