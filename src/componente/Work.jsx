@@ -24,6 +24,7 @@ function Work() {
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* hover Effect */}
+            {/* todo app */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider text-center">
                 TODOAPP
