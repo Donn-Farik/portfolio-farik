@@ -21,10 +21,9 @@ function About() {
           </div>
           <div>
             <p>
-              I'am passionate about building excelent Web applications that
-              improves the lives of those around me.I specialize in creating
-              WEBSITE for our clients ranging from individuals and
-              small-businesses all the way .
+              I am passionate about building excellent Web application
+              especially with React framework ,i am excited to make the leap and
+              continue refining my skills with the right company.
             </p>
           </div>
         </div>
