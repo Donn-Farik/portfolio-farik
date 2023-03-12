@@ -3,7 +3,7 @@ import React from "react";
 import HTML from "../pictures/html.png";
 import CSS from "../pictures/css (1).png";
 import JavaScript from "../pictures/javascript.png";
-import FireBase from "../pictures/firebase.png";
+import react from "../pictures/react.png";
 import GitHub from "../pictures/github.png";
 import Tailwind from "../pictures/tailwind.png";
 import Mongo from "../pictures/mongo.png";
@@ -37,8 +37,8 @@ function Skills() {
             <p className="my-4">JavaScript</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
-            <img className="w-20 mx-auto" src={FireBase} alt="FireBase icon" />
-            <p className="my-4">FireBase</p>
+            <img className="w-20 mx-auto" src={react} alt="FireBase icon" />
+            <p className="my-4">React</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img className="w-20 mx-auto" src={GitHub} alt="GitHub icon" />
