@@ -1,5 +1,5 @@
 import React from "react";
-import landingpage from "../pictures/landingpage.png";
+import screencapture from "../pictures/screencapture-crypto-tracker-opal-kappa-vercel-app-2023-05-10-19_51_52.png";
 import shoppingcart from "../pictures/shoppingcart.png";
 import Todoapp from "../pictures/todoapp.png";
 
@@ -20,7 +20,7 @@ function Work() {
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
           {/* grid item */}
           <div
-            style={{ backgroundImage: `url(${Todoapp})` }}
+            style={{ backgroundImage: `url(${screencapture})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* hover Effect */}
@@ -31,7 +31,7 @@ function Work() {
               </span>
               <div>
                 <a
-                  href="https://react-todoapp-kappa.vercel.app/"
+                  href="https://crypto-tracker-opal-kappa.vercel.app/"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -66,7 +66,7 @@ function Work() {
             </div>
           </div>
           <div
-            style={{ backgroundImage: `url(${landingpage})` }}
+            style={{ backgroundImage: `url(${Todoapp})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* hover Effect */}
@@ -76,7 +76,7 @@ function Work() {
               </span>
               <div>
                 <a
-                  href="https://frensh-soup.vercel.app/ "
+                  href="https://react-todoapp-kappa.vercel.app/"
                   target="_blank"
                   rel="noreferrer"
                 >
